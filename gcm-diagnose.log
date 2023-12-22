@@ -1,0 +1,211 @@
+﻿Diagnose log at 2023-12-22T09:01:50Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.4.1
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 22621)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\chiar
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=LAPTOP-3TKV7P9I
+GIT_TRACE2_PARENT_SID=3d388e03-cb2d-408a-a778-3d863f87d578
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\chiar\OneDrive - Politecnico di Torino
+RegionCode=EMEA
+CHROME_RESTART=Google Chrome|Spiacenti, si è verificato un arresto anomalo di Google Chrome. Riavviarlo ora?|LEFT_TO_RIGHT
+TMP=C:\Users\chiar\AppData\Local\Temp
+PROCESSOR_REVISION=a502
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+GIT_ASKPASS=c:\Users\chiar\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\chiar\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\chiar\AppData\Local
+MSYSTEM=MINGW64
+Java_HOME=C:\Program Files\Java\jdk-11.0.10
+SESSIONNAME=Console
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+ProgramW6432=C:\Program Files
+USERDOMAIN=LAPTOP-3TKV7P9I
+platformcode=KV
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\chiar\bin;C:\Program Files\Google\Chrome\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\chiar\Desktop\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Users\chiar\AppData\Local\Microsoft\WindowsApps;C:\Users\chiar\AppData\Local\gitkraken\bin;C:\ProgramData\chiar\gitkraken\bin;C:\Users\chiar\AppData\Local\GitHubDesktop\bin
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=12
+TMPDIR=C:\Users\chiar\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node
+VSCODE_GIT_ASKPASS_NODE=C:\Users\chiar\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TERM_PROGRAM_VERSION=1.85.1
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\chiar\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+ProgramFiles(x86)=C:\Program Files (x86)
+PUBLIC=C:\Users\Public
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-a6a62d8300-sock
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+VSCODE_NONCE=64c5b742-537e-437b-ac68-68b92405afef
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_8684_KJDZLKGCOPQGLCXS
+asl.log=Destination=file
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+MSYS=disable_pcon
+ProgramFiles=C:\Program Files (x86)
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+OnlineServices=Online Services
+SystemRoot=C:\WINDOWS
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+HOME=C:\Users\chiar
+CommonProgramW6432=C:\Program Files\Common Files
+LOGONSERVER=\\LAPTOP-3TKV7P9I
+USERPROFILE=C:\Users\chiar
+COLORTERM=truecolor
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-3TKV7P9I
+TERM=xterm-256color
+APPDATA=C:\Users\chiar\AppData\Roaming
+HOMEDRIVE=C:
+OneDriveCommercial=C:\Users\chiar\OneDrive - Politecnico di Torino
+PSModulePath=C:\Users\chiar\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+USERNAME=chiar
+PROCESSOR_ARCHITEW6432=AMD64
+EFC_29460=1
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+windir=C:\WINDOWS
+LANG=en_US.UTF-8
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\chiar\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\chiar\AppData\Local\Temp\adaa475aaffde9e872f00bec'... OK
+Reading from temporary file 'C:\Users\chiar\AppData\Local\Temp\adaa475aaffde9e872f00bec'... OK
+Deleting temporary file 'C:\Users\chiar\AppData\Local\Temp\adaa475aaffde9e872f00bec'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\chiar
+UserDataDirectoryPath: C:\Users\chiar\.gcm
+GetCurrentDirectory(): C:\Users\chiar\Desktop\MuseoCarceriLeNuove
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:50346/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.43.0.windows.1'
+Locating current repository... OK
+Git repository at 'C:/Users/chiar/Desktop/MuseoCarceriLeNuove/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/chiar/.gitconfig	filter.lfs.required=true
+file:C:/Users/chiar/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/chiar/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/chiar/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/chiar/.gitconfig	user.name=MariLucente
+file:C:/Users/chiar/.gitconfig	user.email=s319443@studenti.polito.it
+file:C:/Users/chiar/.gitconfig	user.signingkey=
+file:C:/Users/chiar/.gitconfig	gpg.program=gpg
+file:C:/Users/chiar/.gitconfig	commit.gpgsign=false
+file:C:/Users/chiar/.gitconfig	tag.forcesignannotated=false
+file:C:/Users/chiar/.gitconfig	difftool.sourcetree.cmd='' 
+file:C:/Users/chiar/.gitconfig	mergetool.sourcetree.cmd='' 
+file:C:/Users/chiar/.gitconfig	mergetool.sourcetree.trustexitcode=true
+file:C:/Users/chiar/.gitconfig	credential.helperselector.selected=manager
+file:C:/Users/chiar/.gitconfig	credential.helper=cache
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/ProgettoVR/MuseoCarceriLeNuove.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\chiar\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\chiar\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
